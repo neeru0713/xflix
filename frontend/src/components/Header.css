@@ -1,0 +1,46 @@
+.xText{
+    color: red;
+    font-weight: bold;
+}
+
+.header{
+    background: #313131;
+    height: 35%;
+}
+
+select{
+    width: 30%;
+}
+
+.defaultSelect{
+    border: 1px solid black;
+    background: white;
+    border-radius: 16px;
+    color: black;
+    padding: 4px;
+}
+
+.mysearchbox{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-left: 10%;
+}
+
+.mysearchbox input{
+    
+    width: 60%;
+}
+
+.mysearchbox button{
+    background: none; 
+    border: none; 
+    /* margin-left: -30px; */
+}
+
+
+
+/* <div style="display: flex; align-items: center;">
+      <input type="text" placeholder="Search...">
+      <button type="submit" style="background: none; border: none; margin-left: -30px;"><i class="fas fa-search"></i></button>
+    </div> */
